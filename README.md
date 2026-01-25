@@ -79,6 +79,7 @@ Wait for: Uvicorn running on http://0.0.0.0:8000
 
 ### Step 4: Login
 Open your browser to http://localhost:8000 and register a new account.
+![alt text](image.png)
 
 ---
 
@@ -86,15 +87,24 @@ Open your browser to http://localhost:8000 and register a new account.
 
 1. **Class Management Tab**
     - **Create Class:** Set up a new subject (e.g., "CS101", Batch "2024").
+    ![alt text](image-1.png)
     - **Register Student:** Enter Roll No & Name, and upload 1-3 clear photos of the student.
+    ![alt text](image-2.png)
     - **Photo Verification:** Upload a group photo of the entire class. The AI will scan faces and auto-mark attendance for anyone found in the photo.
+    ![alt text](image-3.png)
+    ![alt text](image-4.png)
 
 2. **Live Attendance Tab**
     - **Project QR Code:** Click the QR thumbnail to expand it fullscreen on the projector.
+    ![alt text](image-5.png)
     - **Student Scan:** Students scan the QR → Take a Selfie → Get Verified.
+    ![alt text](image-9.png)
     - **Live Updates:** The dashboard updates automatically (turning rows green) as students check in.
+    ![alt text](image-6.png)
     - **Manual Override:** Use the toggle switches to manually mark a student Present/Absent if needed.
+    ![alt text](image-7.png)
     - **Export Data:** Download the daily attendance report as a CSV file.
+    ![alt text](image-8.png)
 
 ---
 
